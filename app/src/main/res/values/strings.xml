@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">soltani</string>
+    <string name="mul">ضرب</string>
+    <string name="Division">تقسیم</string>
+    <string name="sum">جمع</string>
+
+</resources>
